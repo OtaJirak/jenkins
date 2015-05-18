@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding='ISO-8859-1' standalone='yes' ?>
 <TestRun>
-  <FailedTests></FailedTests>
-  <SuccessfulTests>
+  <FailedTests>
     <Test id="1">
       <Name>MyTester::test1</Name>
-    </Test>
+   </Test>
+  </FailedTests>
+  <SuccessfulTests>
     <Test id="2">
       <Name>MyTester::test2</Name>
     </Test>
